@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../SSC_FINAL_FINAL.srcs/sources_1/new/mpg.vhd" \
+"../../../../SSC_FINAL_FINAL.srcs/sources_1/new/vga_driver.vhd" \
+
+# Do not sort compile order
+nosort

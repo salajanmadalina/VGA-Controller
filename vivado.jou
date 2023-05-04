@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Wed Jan 18 17:43:52 2023
+# Process ID: 21612
+# Current directory: D:/UTCN/ANUL 3/SSC_FINAL_FINAL
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent12216 D:\UTCN\ANUL 3\SSC_FINAL_FINAL\SSC_FINAL_FINAL.xpr
+# Log file: D:/UTCN/ANUL 3/SSC_FINAL_FINAL/vivado.log
+# Journal file: D:/UTCN/ANUL 3/SSC_FINAL_FINAL\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {D:/UTCN/ANUL 3/SSC_FINAL_FINAL/SSC_FINAL_FINAL.xpr}
+update_compile_order -fileset sources_1

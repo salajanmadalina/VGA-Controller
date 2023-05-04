@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Wed Jan 18 17:33:20 2023
+# Process ID: 16840
+# Current directory: D:/UTCN/ANUL 3/SSC_FINAL_FINAL/SSC_FINAL_FINAL.runs/impl_1
+# Command line: vivado.exe -log vga_driver.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source vga_driver.tcl -notrace
+# Log file: D:/UTCN/ANUL 3/SSC_FINAL_FINAL/SSC_FINAL_FINAL.runs/impl_1/vga_driver.vdi
+# Journal file: D:/UTCN/ANUL 3/SSC_FINAL_FINAL/SSC_FINAL_FINAL.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source vga_driver.tcl -notrace
